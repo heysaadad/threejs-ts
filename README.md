@@ -5,7 +5,7 @@ A Three Js, WebXR, TypeScript based AR App Demo.
 > npm install <br>
 > npm run start:live
 
-## Installation - Productiob
+## Installation - Production
 > npm install <br>
 > npm run build
 
